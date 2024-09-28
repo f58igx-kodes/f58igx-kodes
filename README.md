@@ -1,12 +1,17 @@
 [![SArwP.gif](https://s11.gifyu.com/images/SArwP.gif)](https://gifyu.com/image/SArwP)</br></br>
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=4230FF00&center=true&width=500&height=75&lines=Hello%F0%9F%91%8B%2C+I'm+Abdullah%F0%9F%99%8B;Nice+to+Meet+you%F0%9F%98%8A" alt="Hello, I'm Abdullah"></div>
-<h3 align="center">A 14 yr old Python developer </h3>
-<p align="center">
-    I'm an <b>IT enthusiast</b> , <b>full-stack developer</b> and <b>entrepreneur</b>. I have an enormous passion for programming and I'm a huge believer in the power of technology to reach new heights. 
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=4230FF00&center=true&width=500&height=75&lines=Hello%F0%9F%91%8B%2C+I'm+Abdullah%F0%9F%99%8B;Nice+to+Meet+you%F0%9F%98%8A" alt="Hello, I'm Abdullah"></div></br>
+
+<p align="center" style="font-family: 'Courier New', Courier, monospace;">
+    <b>A 14 Yr old PYTHON DEVELOPER</b>
 </p>
-<p align="center">
-    I am constantly striving to learn new things and improve my skills, and my GitHub profile is one of the ways in which I do so. I believe that open-source is the future of software development and I am excited to be a part of this community.
+
+<p align="center" style="font-family: 'Courier New', Courier, monospace;">
+    I'm a <b>Python enthusiast</b>, learning <b>ML</b> and all about building cool stuff. I’ve got a massive passion for programming and believe tech's got the power to change the game.
 </p>
+<p align="center" style="font-family: 'Courier New', Courier, monospace;">
+    Always pushing to learn more and level up my skills. GitHub's my go-to spot for the grind. I’m all in on open-source—it’s where the future’s at, and I’m hyped to be part of this community.
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69595691/193453676-3abfe557-1fc1-46d8-8075-3b17b9f54887.gif">
 </br></br>
 

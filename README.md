@@ -16,10 +16,15 @@
 
 `😄 Pronouns: He/Him`
 
-
-
 </br>
 
+
+<h2 align="left" style="margin-bottom: 5px;">  Highlighted Stack </h2>
+<div align="left" style="margin-top: 0;">
+   <a href="https://gifyu.com/image/SADgg">
+      <img src="https://s11.gifyu.com/images/SADgg.png" alt="lol world" border="0" width="300" />
+   </a>
+</div>
 
 
 ## Connect with me:

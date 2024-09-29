@@ -1,5 +1,5 @@
 [![SArl8.png](https://s11.gifyu.com/images/SArl8.png)](https://gifyu.com/image/SArl8)</br></br>
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=4230FF00&center=true&width=500&height=75&lines=Hello%F0%9F%91%8B%2C+I'm+Abdullah%F0%9F%99%8B;Nice+to+Meet+you%F0%9F%98%8A" alt="Hello, I'm Abdullah"></div></br>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=4230FF00&center=true&width=500&height=75&lines=Hello%F0%9F%91%8B%2C+I'm+Abdullah%F0%9F%99%8B;Nice+to+Meet+you%F0%9F%98%8A" alt="Hello, I'm Abdullah"></div>
 
 ## 🧐 About me:
 
